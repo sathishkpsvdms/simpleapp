@@ -7,6 +7,7 @@ Sample docker image to test docker deployments
 
 ## Running locally - Changed sample
 ## A test commit
+## Another test commit
 Build and run using Docker Compose:
 
 	$ git clone https://github.com/docker/dockercloud-hello-world
